@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MicrosoftDocsAzureDevOps/MicrosoftDocsPipelinesJava/_apis/build/status/agonzalez75.MicrosoftDocsPipelinesJava?branchName=master)](https://dev.azure.com/MicrosoftDocsAzureDevOps/MicrosoftDocsPipelinesJava/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
